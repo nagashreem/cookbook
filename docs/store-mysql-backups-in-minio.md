@@ -2,6 +2,7 @@
 
 In this recipe we will learn how to store MySQL backups in MinIO Server.
 
+lets try it out
  
 ## 1. Prerequisites
 
